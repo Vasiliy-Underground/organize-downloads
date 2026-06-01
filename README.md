@@ -61,6 +61,7 @@ python organize_downloads.py
 ```
 
 🛠 Поддерживаемые форматы
+```
 Тип	Расширения
 Images	.jpg, .jpeg, .png, .gif, .bmp, .webp, .psd, .tif, .heic
 Documents	.pdf, .docx, .txt, .xlsx, .pptx, .htm
@@ -68,6 +69,8 @@ Videos	.mp4, .avi, .mkv, .mov
 Archives	.zip, .rar, .7z
 Programs	.exe, .msi, .msix
 Games	.iso, .bin, .cue, .torrent
+```
+
 ⚙️ Как отключить автозапуск
 Просто запустите программу снова и введите off при вопросе об автозапуске.
 
