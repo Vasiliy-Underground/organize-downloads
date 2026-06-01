@@ -6,5 +6,4 @@ __pycache__/
 config.txt
 *.exe
 settings.json
-*.png
 OrganizeDownloads/
