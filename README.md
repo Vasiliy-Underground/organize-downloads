@@ -43,7 +43,7 @@ python organize_downloads.py
 ![Изменение папок и форматов через код](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/4.png)
 
 📂 Структура после сортировки
-text
+```
 Ваша папка/
 ├── Images/
 │   ├── 2024/
@@ -58,6 +58,8 @@ text
 ├── Programs/
 ├── Games/
 └── Other/
+```
+
 🛠 Поддерживаемые форматы
 Тип	Расширения
 Images	.jpg, .jpeg, .png, .gif, .bmp, .webp, .psd, .tif, .heic
