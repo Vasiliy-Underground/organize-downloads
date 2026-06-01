@@ -172,3 +172,4 @@ if __name__ == "__main__":
     print()
     sort_files(target, silent=False)
     input("\nНажмите Enter для выхода...")
+    
