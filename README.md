@@ -26,6 +26,7 @@
 git clone https://github.com/Vasiliy-Underground/organize-downloads.git
 cd organize-downloads
 python organize_downloads.py
+```
 
 ## 📸 Скриншоты
 
