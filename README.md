@@ -75,6 +75,7 @@ Games	.iso, .bin, .cue, .torrent
 Просто запустите программу снова и введите off при вопросе об автозапуске.
 
 📄 Лицензия
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vasiliy-Underground/organize-downloads/blob/master/LICENSE)
 MIT — делайте что хотите, но ссылку на автора оставьте :)
 
 👨‍💻 Автор
