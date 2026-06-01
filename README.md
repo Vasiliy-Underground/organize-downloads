@@ -23,6 +23,10 @@
 
 ## 🚀 Быстрый старт
 
+Нажмите на файл build_exe.bat после этого появится папка dist и в ней organize_downloads.exe
+
+или при наличии python:
+
 ```bash
 git clone https://github.com/Vasiliy-Underground/organize-downloads.git
 cd organize-downloads
