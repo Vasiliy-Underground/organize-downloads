@@ -1,0 +1,10 @@
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+config.txt
+*.exe
+settings.json
+*.png
+OrganizeDownloads/
