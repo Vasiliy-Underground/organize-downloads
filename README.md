@@ -31,10 +31,10 @@ python organize_downloads.py
 
 ## 📸 Скриншоты
 
-### 1. Копирование пути к папке
+### 1. Копирование пути к папке (можно не копировать, на enter должен автоматически подтягивать путь к загрузкам)
 ![Скопировать путь](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/1.png)
 
-### 2. Ввод пути в программу
+### 2. Ввод пути в программу (можно не вставлять, на enter должен автоматически подтягивать путь к загрузкам)
 ![Вставить путь](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/2.png)
 
 ### 3. Настройка автозапуска
