@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Windows-10%2B-green.svg)](https://www.microsoft.com/windows)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vasiliy-Underground/organize-downloads/blob/master/LICENSE)
 
 ## 🎯 Что делает
 
@@ -75,8 +76,7 @@ Games	.iso, .bin, .cue, .torrent
 Просто запустите программу снова и введите off при вопросе об автозапуске.
 
 📄 Лицензия
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vasiliy-Underground/organize-downloads/blob/master/LICENSE)
 MIT — делайте что хотите, но ссылку на автора оставьте :)
 
 👨‍💻 Автор
-Vasiliy-Underground
+[Vasiliy-Underground](https://github.com/Vasiliy-Underground)
