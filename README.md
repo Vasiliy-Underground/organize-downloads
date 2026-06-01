@@ -26,15 +26,20 @@
 git clone https://github.com/Vasiliy-Underground/organize-downloads.git
 cd organize-downloads
 python organize_downloads.py
-📸 Скриншоты
-1. Ввод пути к папке
-https://github.com/Vasiliy-Underground/organize-downloads/blob/master/screenshots/%25D0%2592%25D1%2581%25D1%2582%25D0%25B0%25D0%25B2%25D0%25B8%25D1%2582%25D1%258C%2520%25D0%25BF%25D1%2583%25D1%2582%25D1%258C.png?raw=true
 
-2. Настройка автозапуска
-https://github.com/Vasiliy-Underground/organize-downloads/blob/master/screenshots/%25D0%2592%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D0%25B8%25D1%2582%25D1%258C_%25D0%25B2%25D1%258B%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D0%25B8%25D1%2582%25D1%258C%2520%25D0%25B0%25D0%25B2%25D1%2582%25D0%25BE%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2583%25D1%2581%25D0%25BA.png?raw=true
+## 📸 Скриншоты
 
-3. Настройка типов файлов и папок
-https://github.com/Vasiliy-Underground/organize-downloads/blob/master/screenshots/%25D0%2598%25D0%25B7%25D0%25BC%25D0%25B5%25D0%25BD%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D0%25BF%25D0%25B0%25D0%25BF%25D0%25BE%25D0%25BA%2520%25D0%25B8%2520%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D0%25B0%25D1%2582%25D0%25BE%25D0%25B2%2520%25D1%2587%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B7%2520%25D0%25BA%25D0%25BE%25D0%25B4.png?raw=true
+### 1. Копирование пути к папке
+![Скопировать путь](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/1.png)
+
+### 2. Ввод пути в программу
+![Вставить путь](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/2.png)
+
+### 3. Настройка автозапуска
+![Включить/выключить автозапуск](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/3.png)
+
+### 4. Добавление новых типов файлов и папок
+![Изменение папок и форматов через код](https://raw.githubusercontent.com/Vasiliy-Underground/organize-downloads/master/screenshots/4.png)
 
 📂 Структура после сортировки
 text
